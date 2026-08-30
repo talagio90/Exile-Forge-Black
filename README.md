@@ -4,6 +4,12 @@ A lightweight companion tool for **Exile Forge**, built specifically for botting
 
 This tool applies **only** the Black-Screen patch (removes the black loading screen) — nothing else from the full Exile Forge feature set is included.
 
+# 📸 Screenshots
+
+## 🖥️ Main Patch Selection
+
+![Main Window](https://raw.githubusercontent.com/talagio90/Exile-Forge-Black/main/screenshots/black.png)
+
 ## License
 
 Requires an active **Botting** tier license key. This tier is unlimited-machine (no HWID binding) and is a separate product from the main Exile Forge license — a regular Exile Forge key will **not** activate this tool, and vice versa.
